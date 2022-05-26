@@ -5,7 +5,7 @@ import java.sql.*;
 public class DBCredentials {
     //  Database credentials
     static final String USER = "root";
-    static final String PASS = "200084hw";  
+    static final String PASS = "";  
 
     public Connection getConnection(){
     try {
