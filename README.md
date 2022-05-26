@@ -4,7 +4,7 @@
 **HTML**\
 Website Content
 
-**CSS**\
+**CSS/Bootstrap**\
 Style and Layout
 
 **JavaScript**\
