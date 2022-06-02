@@ -1,4 +1,4 @@
-# E-Commerce-Website
+# E-Commerce: Multi Page Application
 
 ## Front End ##
 **HTML**\
