@@ -1,26 +1,16 @@
-# E-Commerce: Multi Page Application
+# E-Commerce (Customer) with JavaScript, Java Servlet, JSP, MySQL
 
-## Front End ##
-**HTML**\
-Website Content
+## Structure
+- pa/src/main: 
 
-**CSS/Bootstrap**\
-Style and Layout
+- pa/src/webapp/:
 
-**JavaScript**\
-Form Submission
 
-**Ajax**\
-Dynamic and Interactive Website: Autocomplete
+## Setup
+- Add dependencies to the maven file
 
-## Back End ##
-**Java Servlet**\
-Include and Forward Requests\
-Session Management\
-Form Validation
+## Summary
+### Products Page
+- display a list of products available for sale in a table with multiple rows and columns, where each product is shown within a separate cell
+- display an image for each product available for sale in each cell
 
-**JSP**\
-Generate HTML Code with Java Logic Dynamically
-
-**MySQL**\
-Data Storage and Retrieval
