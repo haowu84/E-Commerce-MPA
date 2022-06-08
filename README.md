@@ -13,7 +13,7 @@
 - pa/src/webapp/form.js: use Ajax to assist the user with filling the order forms
 
 ## Setup
-- Add dependencies to the maven file
+- Add dependencies to the pom.xml
 
 ## Summary
 ### Home Page
