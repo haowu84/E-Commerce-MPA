@@ -13,7 +13,17 @@
 - pa/src/webapp/form.js: use Ajax to assist the user with filling the order forms
 
 ## Setup
-- Add dependencies to the pom.xml
+### Apache Tomcat
+Version 9.0.x \
+[Website](https://tomcat.apache.org/download-10.cgi)
+
+### MySQL 
+Version 8.0.x \
+[Website](https://www.mysql.com)
+
+### VS Code
+[Website](https://code.visualstudio.com/docs/java/java-tutorial)
+
 
 ## Summary
 ### Home Page
